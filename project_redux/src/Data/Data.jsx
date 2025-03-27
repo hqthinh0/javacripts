@@ -8,7 +8,7 @@ const userList = [
         id: 2,
         name: "huỳnh thịnh 2",
         email: 'huynhthinh2@gmail.com',
-    },
+    }, 
     {
         id: 3,
         name: "huỳnh thịnh 3",

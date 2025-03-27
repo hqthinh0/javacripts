@@ -16,6 +16,7 @@ const  store = configureStore({
   }
 })
 
+// https://www.youtube.com/watch?v=DOkSU3yg4vQ
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    <Provider store={store}>
